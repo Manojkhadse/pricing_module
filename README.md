@@ -36,6 +36,9 @@ Step 3 Apply Migrations
 Step 4 Create Superuser (for Admin Access)
     -  python manage.py createsuperuser
 
+    - username / email : admin@admin.com
+    - password : admin123
+
 Step 5 Run the Development Server
     - python manage.py runserver
 
